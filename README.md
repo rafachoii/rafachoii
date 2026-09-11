@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Rafael Choi" width="180"/>
+  <img src="./RafaelChoi_Logo.png" alt="Rafael Choi" width="180"/>
 </p>
 
 <h1 align="center">Rafael Choi</h1>
